@@ -1,0 +1,12 @@
+{
+  "name": "npm-peer-deps",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "eslint src"
+  },
+  "devDependencies": {
+    "browserify": "^11.1.0",
+    "eslint": "^1.5.0"
+  },
+  "private": true
+}
